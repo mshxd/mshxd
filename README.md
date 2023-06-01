@@ -1,6 +1,6 @@
 # misha / msh
 
 -  🛠️ Tinkerer
--  💻 Golang engineer
+-  💻 Golang developer
 -  🔰 Crypto(graphy)
 -  🚙 Overlander
